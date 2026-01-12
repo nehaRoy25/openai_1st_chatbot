@@ -1,0 +1,7 @@
+langchain==0.3.27
+dotenv
+langchain-community
+bs4
+langchain-openai
+faiss-cpu
+streamlit
